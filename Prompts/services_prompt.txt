@@ -1,0 +1,12 @@
+Generate professional service descriptions for a beauty salon named "GlowUp Beauty Salon".
+
+Include:
+- Haircut & Styling
+- Bridal Makeup
+- Facial Treatments
+- Hair Spa
+- Manicure & Pedicure
+- Waxing & Threading
+
+Tone:
+Elegant, modern, and customer-friendly.
